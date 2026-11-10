@@ -6,7 +6,6 @@
 
 **Data Engineering · Artificial Intelligence · Software Development**
 
-*Building reliable data pipelines, intelligent applications, and software that solves real problems.*
 
 [![Databricks Credentials](https://img.shields.io/badge/Databricks-View%20my%20credentials-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.credential.net/profile/eduardodavigenaro768652/wallet)
 
