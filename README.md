@@ -80,6 +80,41 @@ An unsupervised visual inspection project exploring **PatchCore** and autoencode
 
 ---
 
+## Certification Badges
+
+<div align="center">
+
+<p>
+  <a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/200427569" width="120" alt="Databricks Credential 1" />
+  </a>
+  <a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/198743813" width="120" alt="Databricks Credential 2" />
+  </a>
+  <a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/198741544" width="120" alt="Databricks Credential 3" />
+  </a>
+  <a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197096982" width="120" alt="Databricks Credential 4" />
+  </a>
+  <a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197370871" width="120" alt="Databricks Credential 5" />
+  </a>
+  <a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197369846" width="120" alt="Databricks Credential 6" />
+  </a>
+</p>
+
+**Verified Databricks certifications and learning achievements.**
+
+<a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
+  <img src="https://img.shields.io/badge/Accredible-Verify%20my%20credentials-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Verify my credentials" />
+</a>
+
+</div>
+
+---
+
 ## Let's connect
 
 Interested in **data, AI, and software engineering**? Feel free to explore my repositories and follow my work here on GitHub.
