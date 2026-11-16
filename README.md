@@ -7,7 +7,6 @@
 
 **Data Engineering · Artificial Intelligence · Data Science**
 
-[![Databricks Credentials](https://img.shields.io/badge/Databricks-View%20my%20credentials-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.credential.net/profile/eduardodavigenaro768652/wallet)
 
 </div>
 
