@@ -60,26 +60,6 @@ An unsupervised visual inspection project exploring **PatchCore** and autoencode
 
 ---
 
-## Databricks Credentials
-
-<div align="center">
-
-<a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
-  <img src="https://img.shields.io/badge/DATABRICKS-VERIFIED%20CREDENTIALS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks credentials" />
-</a>
-
-<br>
-
-**Explore my Databricks certifications and learning achievements.**
-
-<a href="https://www.credential.net/profile/eduardodavigenaro768652/wallet">
-  View my credentials ↗
-</a>
-
-</div>
-
----
-
 ## Certification Badges
 
 <div align="center">
